@@ -6,3 +6,5 @@ O objetivo principal é praticar a resolução de problemas e aprimorar a organi
 
 Os exercícios estão organizados em arquivos separados, cada um contendo um problema específico para prática.
 O código é comentado para facilitar o entendimento da lógica utilizada.
+
+Realizada em 16/04/2024, vinculado a graduação em Análise e Desenvolvimento de Sistemas - Araraquara
